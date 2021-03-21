@@ -1,3 +1,3 @@
 # Random qote generator app
 
-## [Live](https://portfolio-mizan.vercel.app)
+## [Live](https://quote-generator-pi.vercel.app/)
